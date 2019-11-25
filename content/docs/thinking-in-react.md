@@ -1,7 +1,7 @@
 ---
 id: thinking-in-react
 title: Thinking in React
-permalink: docs/thinking-in-react.html
+permalink: docs/thinking-in-react.htmljhjhjh
 redirect_from:
   - 'blog/2013/11/05/thinking-in-react.html'
   - 'docs/thinking-in-react-zh-CN.html'
